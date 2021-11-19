@@ -4,6 +4,7 @@ Website for Innate Cosmetics
 
 This website will have the purpose of selling cosmetics.
 Ideally will be in reactJS... open to suggestions.
+Secondly, the backend will probably be hosted with AWS, and the domain name is innate-cosmetics.com via google domains.
 
 First steps:
 1. download node.js
@@ -20,3 +21,6 @@ First steps:
 Project Start on 10/15/21 using this tutorial =>https://www.youtube.com/watch?v=I2UBjN5ER4s 
 Knowledge of ReactJS and general web development, nil
 10/16/21 time to judge it up and make it my own...
+11/18/21 update: wireframes completed, time to crash course javascript, html, and css. Gonna attempt this through adobeXD and anima or react native generator.
+
+Some things I have learned about myself, I do not think I have an eye for design lol.
